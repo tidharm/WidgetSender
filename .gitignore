@@ -1,0 +1,18 @@
+# IDE Directories
+.idea/
+.vs/
+
+# Build Directories
+WidgetSender/bin/
+WidgetSender/obj/
+
+WidgetService/bin/
+WidgetService/obj/
+
+# Logs
+logs
+*.log
+
+# Other Tools
+.ws/
+whitesource/
